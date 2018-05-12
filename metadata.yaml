@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44329#Modern-Painters-Volume-5--of-5-
 gutenberg_issued: '2013-12-01'
 gutenberg_type: Text
 identifiers:
